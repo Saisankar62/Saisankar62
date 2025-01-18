@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     </head>
     <body>
          <h1>MY PROFILE</h1>
-            <img src="https://images.app.goo.gl/y2JZNL2ZWdvAiemr8" alt="image">
+            <img src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" alt="image">
          </div>
      <body>
 </html>

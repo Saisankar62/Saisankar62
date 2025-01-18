@@ -14,15 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-    <body>
-         <h1>MY PROFILE</h1>
-            <img src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" alt="image">
-    </body>
-</html>
-
+<h1>MY PROFILE</h1>
+<img src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" alt="image">
